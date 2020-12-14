@@ -1,5 +1,5 @@
 _repo: Last-Night-Out_63988
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Vestal, Herman B.
@@ -10,6 +10,9 @@ contributor:
     deathdate: 2007
     gutenberg_agent_id: '33400'
     url: http://www.gutenberg.org/2009/agents/33400
+covers:
+- cover_type: archival
+  image_path: 63988-h/images/cover.jpg
 creator:
   author:
     agent_name: Rothman, Milton A.
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52699
     wikipedia: https://en.wikipedia.org/wiki/Milton_A._Rothman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63988#Last-Night-Out
 gutenberg_issued: '2020-12-08'
 gutenberg_type: Text
 identifiers:
